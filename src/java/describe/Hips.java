@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package core;
+package describe;
 
 /**
  *
  * @author E016233
  */
-public interface Entity {
+public class Hips {
     
 }
