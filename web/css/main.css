@@ -51,3 +51,12 @@ body {
 input.option {
     width: 100px;
 }
+
+#content {
+    position: fixed;
+    overflow: scroll;
+    left: 152px;
+    top: 152px;
+    height: 100%;
+    width: 100%;
+}
